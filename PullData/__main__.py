@@ -1,0 +1,3 @@
+import wsConnect
+
+wsConnect.connection
