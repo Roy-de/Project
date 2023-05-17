@@ -1,6 +1,8 @@
-import wsConnect
-import time
+import time 
 from kafka import KafkaProducer
+import wsConnect
+
+#Add additional paths
 
 #This will produce data to kafka topics
 producer = KafkaProducer(
